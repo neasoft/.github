@@ -1,4 +1,4 @@
-# neasoft - Individuelle Softwareentwicklung
+# neasoft – Individuelle Softwareentwicklung
 
 Willkommen auf dem offiziellen GitHub-Profil von neasoft. Wir sind Ihr Partner für die Entwicklung maßgeschneiderter Softwarelösungen.
 
